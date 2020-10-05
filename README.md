@@ -4,9 +4,14 @@
 Build MLP and CNN network for Sound Source Localization.
 
 ## Project Details
-Input: binaural audio files, output: labels
+Input: binaural audio files
+
+Output: labels
+
 Classify 3 azimuth angles using binaural audio files as inputs. The azimuth angles are: 0, 30, and 60 degrees
+
 Use MFCC as input features
+
 Metrics: classification accuracy
 
 ## The link to the dataset:
